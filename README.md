@@ -1749,3 +1749,12 @@ See [USB subfolder](USB/README.md) of this project.
 2. [World of Spectrum - Documentation](https://www.worldofspectrum.org/documentation.html)
 3. [Interrupts](http://www.breakintoprogram.co.uk/computers/zx-spectrum/interrupts)
 4. [ZXBaremulator](http://zxmini.speccy.org/)
+5. [SkoolKit disassemblies](http://skoolkit.ca/?page_id=1016)
+6. [Sergey Kiselev - Building ZX Spectrum Clone - Harlequin](http://www.malinov.com/Home/sergey-s-blog/buildingzxspectrumclone-harlequin-part1)
+
+## 6.9 Z80
+
+1. [Steve Ciarcia - Build Your Own Z80 Computer](http://www.pestingers.net/pdfs/other-computers/build-your-own-z80.pdf)
+2. [Z80 Info](http://z80.info/)
+3. [Ben Eater - Build an 8-bit computer from scratch](https://eater.net/8bit/)
+4. [Robin Mitchell - How to Build a Z80 Computer](https://maker.pro/pic/projects/z80-computer-project-part-1-the-cpu)

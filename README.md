@@ -1740,6 +1740,7 @@ to try this out with.
 2. [JTag for Pi 3 - David Welch advice](https://www.raspberrypi.org/forums/viewtopic.php?t=202540)
 3. [SUSE Blog - Debugging Raspberry Pi 3 with JTAG](https://www.suse.com/c/debugging-raspberry-pi-3-with-jtag/)
 4. [dwelch67 armjtag folder](https://github.com/dwelch67/raspberrypi/tree/master/armjtag)
+5. [Daniel Krebs - JTAG and bare metal on Raspberry Pi 3](https://github.com/daniel-k/rpi3-aarch64-jtag)
 
 ## 6.7 USB Keyboard
 

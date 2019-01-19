@@ -1702,6 +1702,7 @@ to try this out with.
 16. [Tetris-Duel-Team - Multiplayer Tetris for Raspberry Pi (in bare metal assembly)](https://github.com/Tetris-Duel-Team/Tetris-Duel)
 17. [Jake Sandler - Building an Operating System for the Raspberry Pi](https://jsandler18.github.io)
 18. [Brian Sidebotham - Raspberry-Pi Bare Metal Tutorial](https://github.com/BrianSidebotham/arm-tutorial-rpi)
+19. [Miro Samek - Building Bare-Metal ARM Systems with GNU](https://www.embedded.com/design/mcus-processors-and-socs/4007119/Building-Bare-Metal-ARM-Systems-with-GNU-Part-1--Getting-Started)
 
 ## 6.2 RPi Assembly under Linux
 

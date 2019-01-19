@@ -1703,6 +1703,7 @@ to try this out with.
 17. [Jake Sandler - Building an Operating System for the Raspberry Pi](https://jsandler18.github.io)
 18. [Brian Sidebotham - Raspberry-Pi Bare Metal Tutorial](https://github.com/BrianSidebotham/arm-tutorial-rpi)
 19. [Miro Samek - Building Bare-Metal ARM Systems with GNU](https://www.embedded.com/design/mcus-processors-and-socs/4007119/Building-Bare-Metal-ARM-Systems-with-GNU-Part-1--Getting-Started)
+20. [Andre Richter - Bare Metal Rust Programming on Raspberry Pi 3](https://github.com/rust-embedded/rust-raspi3-tutorial)
 
 ## 6.2 RPi Assembly under Linux
 
